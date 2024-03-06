@@ -10,6 +10,10 @@ https://deepspeech.readthedocs.io/en/latest/
 ### Step 1: Create virtual environment to run python 3.6
 https://dfordatascience.wordpress.com/2021/04/22/how-to-create-python-3-6-virtual-environment-on-ubuntu-20-04/
 
+https://www.freecodecamp.org/news/manage-multiple-python-versions-and-virtual-environments-venv-pyenv-pyvenv-a29fb00c296f/
+
+```python3.6 -m venv my-env```
+
 ### Step 2: Activate virtual environment and install dependencies
 
 
